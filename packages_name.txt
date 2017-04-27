@@ -1,0 +1,4 @@
+numpy ¾ØÕóÔËËã
+pandas Êı¾İ¿ò
+matplotlib »­Í¼
+Ipython
